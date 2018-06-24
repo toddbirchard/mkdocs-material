@@ -21,7 +21,7 @@ A Material Design theme for [MkDocs][1].
 
 [![Material for MkDocs](docs/assets/images/material.png)][2]
 
-  [1]: http://www.mkdocs.org
+  [1]: https://www.mkdocs.org
   [2]: https://squidfunk.github.io/mkdocs-material/
 
 ## Quick start
@@ -42,7 +42,7 @@ theme:
 ## What to expect
 
 * Responsive design and fluid layout for all kinds of screens and devices,
-  designed to serve your project documentation in a user-friendly way in 26
+  designed to serve your project documentation in a user-friendly way in 27
   languages with optimal readability.
 
 * Easily customizable primary and accent color, fonts, favicon and logo;

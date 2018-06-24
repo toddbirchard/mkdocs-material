@@ -24,7 +24,7 @@ pip install mkdocs && mkdocs --version
 
 Material requires MkDocs >= 0.17.1.
 
-  [1]: http://www.mkdocs.org
+  [1]: https://www.mkdocs.org
 
 ### Installing Material
 
@@ -344,13 +344,13 @@ translations for all template variables and labels in the following languages:
       <td><code>pl</code> / Polish</td>
       <td><code>pt</code> / Portugese</td>
       <td><code>ru</code> / Russian</td>
-      <td><code>es</code> / Spanish</td>
+      <td><code>sk</code> / Slovak</td>
     </tr>
     <tr>
+      <td><code>es</code> / Spanish</td>
       <td><code>sv</code> / Swedish</td>
       <td><code>tr</code> / Turkish</td>
       <td><code>uk</code> / Ukrainian</td>
-      <td><code>vi</code> / Vietnamese</td>
     </tr>
     <tr>
       <td colspan="2">
@@ -361,7 +361,8 @@ translations for all template variables and labels in the following languages:
       </td>
     </tr>
     <tr>
-      <td colspan="4" align="right">
+      <td colspan="1"><code>vi</code> / Vietnamese</td>
+      <td colspan="3" align="right">
         <a href="http://bit.ly/2EbzFc8">Submit a new language</a>
       </td>
     </tr>
@@ -537,7 +538,7 @@ set explicitly by setting `extra.repo_icon` to `github`, `gitlab` or
     guidance regarding the `edit_uri` attribute, which defines whether the edit
     button is shown or not.
 
-  [19]: http://www.mkdocs.org/user-guide/configuration/#edit_uri
+  [19]: https://www.mkdocs.org/user-guide/configuration/#edit_uri
 
 ### Adding social links
 
@@ -636,7 +637,7 @@ Material theme including more information regarding installation and usage:
 * [Permalinks][29]
 * [PyMdown Extensions][30]
 
-  [24]: http://www.mkdocs.org/user-guide/writing-your-docs/#markdown-extensions
+  [24]: https://www.mkdocs.org/user-guide/writing-your-docs/#markdown-extensions
   [25]: extensions/admonition.md
   [26]: extensions/codehilite.md
   [27]: extensions/footnotes.md
